@@ -5,7 +5,7 @@ To open the site, visit this link:
 https://dashcool122.github.io/Dash-Player/
 
 ---
-![DashPlayer Gameplay](showcase.png)
+![DashPlayer Gameplay](gameplay.png)
 ---
 This is my very own music/media player. You can play your own songs here by dragging and dropping .mp3 files into the provided space.
 ```
